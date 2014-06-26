@@ -95,7 +95,7 @@ $g['retval'] = multiSort($g['retval'], 'count');
 krsort($g['retval']);
 
 
-// $baseurl = 'https://m.leasetrader.com';
+
 $baseurl = '';
 
 $n = 0;
